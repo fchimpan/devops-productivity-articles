@@ -15,6 +15,7 @@
 
 ### [Four Keysと開発生産性について取り組んできたこと](https://creators-note.chatwork.com/entry/four_keys_and_dev_productivity) Chatwork (2023/10/19)
 
+### [リアーキテクトと開発生産性について](https://speakerdeck.com/yosuke_furukawa/riakitekutotokai-fa-sheng-chan-xing-nituite) BAR フロントえんどう (2023/11/18)
 
 ## Others
 
